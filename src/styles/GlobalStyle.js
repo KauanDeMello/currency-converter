@@ -7,7 +7,7 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     line-height: 1;
     background-color: black;
-      
+     
   }
 
   @media (max-width: 600px) {
